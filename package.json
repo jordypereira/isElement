@@ -1,0 +1,29 @@
+{
+  "name": "@jordypereira/iselement",
+  "version": "0.1.0",
+  "description": "Typescript function to set the type to a HTMLElement",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordypereira/iselement.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordypereira/iselement/issues"
+  },
+  "homepage": "https://github.com/jordypereira/iselement#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
+}
